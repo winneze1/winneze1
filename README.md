@@ -34,28 +34,28 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=winneze1" alt="winneze1" /></p>
 
 
-![winneze1's GitHub stats](https://github-readme-stats.vercel.app/api?username=winneze1&theme=graywhite&show_icons=true)
+![winneze1's GitHub stats](https://github-readme-stats.vercel.app/api?username=winneze1&theme=dark&show_icons=true)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/winneze1/winneze1/output/github-contribution-grid-snake.svg)
 
 ### Open Source Projects
 
 <a href="https://github.com/winneze1/NoteAppCleanArchitect">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=winneze1&repo=NoteAppCleanArchitect&bg_color=ffffff" height="148" width="399"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=winneze1&repo=NoteAppCleanArchitect&theme=dark" height="148" width="399"/>
 </a>
 
 <a href="https://github.com/Kotlin-Android-Open-Source/MVI-Coroutines-Flow">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Kotlin-Android-Open-Source&repo=MVI-Coroutines-Flow&bg_color=ffffff" height="148" width="399"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Kotlin-Android-Open-Source&repo=MVI-Coroutines-Flow&theme=dark" height="148" width="399"/>
 </a>
 
 <br>
 
 <a href="https://github.com/winneze1/AngelFramework">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=winneze1&repo=AngelFramework&bg_color=ffffff" height="148" width="399"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=winneze1&repo=AngelFramework&theme=dark" height="148" width="399"/>
 </a>
 
 <a href="https://github.com/winneze1/DatLichCatToc">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=winneze1&repo=DatLichCatToc&bg_color=ffffff" height="148" width="399"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=winneze1&repo=DatLichCatToc&theme=dark" height="148" width="399"/>
 </a>
 
 
