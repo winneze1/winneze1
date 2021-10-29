@@ -9,8 +9,8 @@
 
 [![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/Kotlin-Android-Open-Source)
 [![Android](https://img.shields.io/badge/android-teal.svg?&style=for-the-badge&logo=android&logoColor=white")](https://github.com/Kotlin-Android-Open-Source)
-[![Flutter](https://img.shields.io/badge/flutter-%233498DB.svg?&style=for-the-badge&logo=flutter&logoColor=white)
-[![Dart](https://img.shields.io/badge/dart-%231DA1F2.svg?&style=for-the-badge&logo=dart&logoColor=white)
+[![Flutter](https://img.shields.io/badge/flutter-%233498DB.svg?&style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/flutter/flutter)
+[![Dart](https://img.shields.io/badge/dart-%231DA1F2.svg?&style=for-the-badge&logo=dart&logoColor=white)](https://github.com/dart-lang)
 
 ### Hello visitors
 
@@ -34,7 +34,7 @@
 
 **Github profile summary** <a href="https://profile-summary-for-github.com/user/winneze1">https://profile-summary-for-github.com/user/winneze1</a>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hoc081098" alt="hoc081098" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=winneze1" alt="winneze1" /></p>
 
 
 ![winneze1's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=graywhite&show_icons=true)(https://github.com/winneze1)
