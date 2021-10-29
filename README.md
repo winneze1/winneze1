@@ -7,10 +7,10 @@
 
 ### Skills
 
-[![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/Kotlin-Android-Open-Source)
-[![Android](https://img.shields.io/badge/android-teal.svg?&style=for-the-badge&logo=android&logoColor=white")](https://github.com/Kotlin-Android-Open-Source)
 [![Flutter](https://img.shields.io/badge/flutter-%233498DB.svg?&style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/flutter/flutter)
 [![Dart](https://img.shields.io/badge/dart-%231DA1F2.svg?&style=for-the-badge&logo=dart&logoColor=white)](https://github.com/dart-lang)
+[![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/Kotlin-Android-Open-Source)
+[![Android](https://img.shields.io/badge/android-teal.svg?&style=for-the-badge&logo=android&logoColor=white")](https://github.com/Kotlin-Android-Open-Source)
 
 ### Hello visitors
 
@@ -20,9 +20,9 @@
   
 </code>
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; align-items: center;">
    <code>Visitor count</code>
-   <img src="https://profile-counter.glitch.me/winneze1/count.svg" />
+   <img style="margin-left: 10px" src="https://profile-counter.glitch.me/winneze1/count.svg" />
    <br>
  </p>
   
