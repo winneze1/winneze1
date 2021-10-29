@@ -19,9 +19,8 @@
   </p>
 </code>
 
-<p align="center" style="display: flex; justify-content: center; align-items: center;">
-   <code>Visitor count</code>
-   <img style="margin-left: 10px" src="https://profile-counter.glitch.me/winneze1/count.svg" />
+<p align="center">
+   <img src="https://profile-counter.glitch.me/winneze1/count.svg" />
 </p>
   
   ### Resume
