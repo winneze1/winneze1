@@ -17,7 +17,7 @@
 <p align="center">
   <code><img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='80"'>
   <img src='https://github.com/Kotlin-Android-Open-Source/.github/blob/main/profile/Kotlin%20Full%20Color%20Logo%20Mark%20RGB.png?raw=true' width='76"'>
-  <img src='https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.png' width='80"'>
+  <img src='https://avatars.githubusercontent.com/u/1609975?s=200&v=4' width='80"'>
   <img src='https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true' width='80"'>
   </p>
   
@@ -29,9 +29,9 @@
   
    <br>
    <a href="https://hits.seeyoufarm.com">
-     [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwinneze1%2Fhit-counter&count_bg=%23FF6F6F&title_bg=%23555555&icon=consul.svg&icon_color=%23E7E7E7&title=&edge_flat=false)](https://hits.seeyoufarm.com)
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwinneze1%2Fhit-counter&count_bg=%23FF6F6F&title_bg=%23555555&icon=consul.svg&icon_color=%23E7E7E7&title=&edge_flat=false" />
    </a>
-  </p>
+ </p>
   
   ### Resume
   
