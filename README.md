@@ -37,7 +37,7 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=winneze1" alt="winneze1" /></p>
 
 
-![winneze1's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=graywhite&show_icons=true)(https://github.com/winneze1)
+![winneze1's GitHub stats](https://github-readme-stats.vercel.app/api?username=winneze1&theme=graywhite&show_icons=true)(https://github.com/winneze1)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/winneze1/winneze1/output/github-contribution-grid-snake.svg)
 
