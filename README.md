@@ -17,14 +17,12 @@
 <p align="center">
   <code><img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='80"'>
   </p>
-  
 </code>
 
 <p align="center" style="display: flex; justify-content: center; align-items: center;">
    <code>Visitor count</code>
    <img style="margin-left: 10px" src="https://profile-counter.glitch.me/winneze1/count.svg" />
-   <br>
- </p>
+</p>
   
   ### Resume
   
@@ -37,7 +35,7 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=winneze1" alt="winneze1" /></p>
 
 
-![winneze1's GitHub stats](https://github-readme-stats.vercel.app/api?username=winneze1&theme=graywhite&show_icons=true)(https://github.com/winneze1)
+![winneze1's GitHub stats](https://github-readme-stats.vercel.app/api?username=winneze1&theme=graywhite&show_icons=true)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/winneze1/winneze1/output/github-contribution-grid-snake.svg)
 
