@@ -49,6 +49,9 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/winneze1/winneze1/output/github-contribution-grid-snake.svg)
 
+### Game made in my free time
+[<img src='https://img.itch.zone/aW1hZ2UvNzA0MDQ5LzM5MTUwMTIucG5n/original/VaYjkt.png' width='300"'>](https://winneze1.itch.io/unknown)
+[<img src='https://img.itch.zone/aW1hZ2UvNTQ3NDA3LzI4NTg3NzMucG5n/original/JyA4co.png' width='300"'>](https://winneze1.itch.io/unknown)
 ### Open Source Projects
 
 <a href="https://github.com/winneze1/NoteAppCleanArchitect">
