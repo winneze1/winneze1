@@ -54,12 +54,12 @@
 [<img src='https://img.itch.zone/aW1hZ2UvNTQ3NDA3LzI4NTg3NzMucG5n/original/JyA4co.png' width='300"'>](https://winneze1.itch.io/unknown)
 ### Open Source Projects
 
-<a href="https://github.com/winneze1/NoteAppCleanArchitect">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=winneze1&repo=NoteAppCleanArchitect&theme=dark" height="148" width="399"/>
+<a href="https://github.com/winneze1/flutter_tdd_architecture">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=winneze1&repo=flutter_tdd_architecture&theme=dark" height="148" width="399"/>
 </a>
 
-<a href="https://github.com/Kotlin-Android-Open-Source/MVI-Coroutines-Flow">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Kotlin-Android-Open-Source&repo=MVI-Coroutines-Flow&theme=dark" height="148" width="399"/>
+<a href="https://github.com/winneze1/flutter_ddd_architecture">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=winneze1&repo=flutter_ddd_architecture&theme=dark" height="148" width="399"/>
 </a>
 
 <br>
