@@ -15,14 +15,11 @@
 ### Hello visitors
 
 <p align="center">
-  <code>
   <img src='https://avatars.githubusercontent.com/u/6955922?s=200&v=4' width='80"'>
   <img src='https://github.com/Kotlin-Android-Open-Source/.github/blob/main/profile/Kotlin%20Full%20Color%20Logo%20Mark%20RGB.png?raw=true' width='76"'>
   <img src='https://avatars.githubusercontent.com/u/1609975?s=200&v=4' width='80"'>
   <img src='https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true' width='80"'>
-  </p>
-  
-</code>
+</p>
 
 <p align="center">
    <code>Visitor count</code>
