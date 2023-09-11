@@ -25,10 +25,6 @@
       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwinneze1%2Fhit-counter&count_bg=%23FF6F6F&title_bg=%23555555&icon=consul.svg&icon_color=%23E7E7E7&title=&edge_flat=false" />
    </a>
  </p>
-  
-  ### Resume
-  
-  - [My CV](https://drive.google.com/file/d/1t-1bueJ-ByoQj4r3L1Kkw8c0_BHlzT9N/view?usp=sharing).
 
 ### Github Stats
 
