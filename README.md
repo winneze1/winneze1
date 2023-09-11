@@ -1,10 +1,5 @@
 ## A self-taught mobile developer (Android, Flutter)
 
-### Contact me
-                  
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hoang.minh.58118774)
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/winneze1/)
-
 ### Skills
 
 [![Flutter](https://img.shields.io/badge/flutter-%233498DB.svg?&style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/flutter/flutter)
